@@ -1,4 +1,6 @@
-Exercícios sobre árvores binárias feitos no REPLIT:
+#Exercícios sobre árvores binárias:
+feitos no Replit.
+
 1) Receba um valor como parâmetro e retorne como resposta um valor booleano, sendo
 Verdadeiro, quando o valor está armazenado na árvore e Falso, quando esse valor não
 está armazenado.
