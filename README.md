@@ -1,4 +1,4 @@
-#Exercícios sobre árvores binárias:
+# Exercícios sobre árvores binárias:
 feitos no Replit.
 
 1) Receba um valor como parâmetro e retorne como resposta um valor booleano, sendo
